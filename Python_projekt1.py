@@ -1,1 +1,1 @@
-print("world bebra")
+print("bebra")
